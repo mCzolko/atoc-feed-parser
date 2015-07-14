@@ -1,5 +1,5 @@
 {
-    "name": "jcoded/atoc-feed-parser",
+    "name": "mCzolko/atoc-feed-parser",
     "description": "A parser for the ATOC data feed files.",
     "keywords": [
         "ATOC", 
@@ -11,11 +11,15 @@
     "license": "MIT",
     "type": "package",
     "support": {
-        "issues": "https://github.com/JCoded/atoc-feed-parser/issues"
+        "issues": "https://github.com/mCzolko/atoc-feed-parser/issues"
     },
     "authors": [{
         "name": "James Smith",
         "homepage": "http://www.linuxsystem.co.uk/",
+        "role": "Developer"
+    },{
+        "name": "Michael Czolko",
+        "homepage": "https://github.com/mCzolko",
         "role": "Developer"
     }],
     "require": {
