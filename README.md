@@ -10,7 +10,7 @@ It does not parse files that are identified as not maintained in the ATOC specif
 You can install this package through Composer. Add the following line to your composer.json `require` object:
 
 ```
-"jcoded/atoc-feed-parser": "dev-master"
+"mczolko/atoc-feed-parser": "dev-master"
 ```
 
 ## Record identity
