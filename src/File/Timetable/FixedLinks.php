@@ -77,7 +77,8 @@ class FixedLinks extends AbstractFileParser
      */
     protected function dataMap($line)
     {
-        $mode = reset(explode(' ', substr($line, 17, 8)));
+        $splittedLine = explode(' ', substr($line, 17, 8));
+        $mode = reset($splittedLine);
         $modeLength = strlen($mode);
         
         $map = 'map'.$modeLength;
