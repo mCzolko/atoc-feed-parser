@@ -1,5 +1,5 @@
 {
-    "name": "mCzolko/atoc-feed-parser",
+    "name": "mczolko/atoc-feed-parser",
     "description": "A parser for the ATOC data feed files.",
     "keywords": [
         "ATOC", 
